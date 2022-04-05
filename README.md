@@ -16,8 +16,11 @@ Installing it is easy! Just go to releases by clicking [here](https://github.com
 
 (Make sure you are installing the *latest* release)
 
-Click policygetterv**x**.rbxm(where x is the version number)
+Click policygetter-v**x**.rbxm (where x is the version number)
 Open a Roblox Studio session and drag the file to Studio from your file explorer.
 
 Click the > in the folder to open it
 And read the file called **README.lua**
+
+## Supported policies
+can be found in our wiki page.
