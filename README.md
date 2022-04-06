@@ -20,7 +20,6 @@ Click policygetter-v**x**.rbxm (where x is the version number)
 Open a Roblox Studio session and drag the file to Studio from your file explorer.
 
 Click the > in the folder to open it
-And read the file called **README.lua**
+and read the file called **README.lua**
 
-## Supported policies
-can be found in our wiki page.
+Supported policy types, like removing F3X or anti exploit, can be found in the [wiki](https://github.com/DavidTheRobloxDev/policy-service/wiki)
