@@ -1,6 +1,6 @@
 # Policy Service
 
-**A DavidTheRobloxDev project**
+**A David Studios project**
 
 Scans for items and removes them if they violate the policy! 
 
